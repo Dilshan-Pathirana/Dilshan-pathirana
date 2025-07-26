@@ -37,7 +37,7 @@
 
 📧 Email: dilshan.pathirana.121@gmail.com  
 📧 University: s19121@sci.pdn.ac.lk  
-🔗 [LinkedIn]( linkedin.com/in/dilshan-121-pathiran   )  
+🔗 [LinkedIn]( https://linkedin.com/in/dilshan-121-pathiran)  
 
 
 ---
