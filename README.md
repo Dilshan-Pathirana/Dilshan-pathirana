@@ -66,6 +66,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan-pathirana&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan-pathirana&theme=radical" alt="GitHub Streak" />
-</p>
+
