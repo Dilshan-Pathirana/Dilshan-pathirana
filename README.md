@@ -1,47 +1,31 @@
-# 👋 Hello! I'm Dilshan Pathirana
+<h1 align="center">Hi 👋, I'm Dilshan Pathirana</h1>
+<h3 align="center">Final-year Applied Science undergraduate specialising in Computer Science at the University of Peradeniya</h3>
 
-🎓 Final-year Applied Science undergraduate at the **University of Peradeniya**, specializing in **Computer Science** and **Zoology** as a secondary interest. I’m passionate about blending technology and creativity to solve real-world problems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-pathirana&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-pathirana" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshan-pathirana" alt="dilshan-pathirana" /></a> </p>
 
-## 💡 About Me
+- 🌱 I’m currently learning **DevOps, Kubernetes, AWS, Ansible, Jenkins and C++**
 
-- 👨‍💻 Currently building projects in **AI**, **ML**, **full-stack web development**, and **computer vision**
-- 🎥 Passionate **photographer** and **videographer** with hands-on skills in editing and design
-- 📊 Strong background in **Python**, **JavaScript**, **React**, **Spring Boot**, **OCR**, and **machine learning**
-- 🚀 Eager to collaborate on impactful projects or internships in **software engineering**, **AI/ML**, or **creative tech**
+- 👨‍💻 All of my projects are available at [https://www.dilshanpathirana.com/](https://www.dilshanpathirana.com/)
 
----
+- 💬 Ask me about **My passions and my future goals**
 
-## 🛠️ Technologies & Tools
+- 📫 How to reach me **dilshan.pathirana.121@gmail.com**
 
-**Languages:** Python, Java, JavaScript, C, HTML, CSS  
-**Frameworks/Libraries:** React.js, Node.js, Express.js, Spring Boot, OpenCV, TensorFlow, Keras, Scikit-learn  
-**Databases:** MySQL, MongoDB  
-**Tools:** Postman, Git, VS Code, Tesseract OCR, Adobe Premiere Pro, After Effects, Illustrator  
+- 📄 Know about my experiences [https://www.linkedin.com/in/dilshan-121-pathiran](https://www.linkedin.com/in/dilshan-121-pathiran)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dilshan pathirana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshan pathirana" height="30" width="40" /></a>
+<a href="https://fb.com/dilshan pathirana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilshan pathirana" height="30" width="40" /></a>
+</p>
 
-## 📌 Notable Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- **🎞️ AI-Powered Note-Taking App** – Scans handwritten notes or screenshots, extracts structured text using OCR, and refines them using AI to create clean PDF notes.
-- **📦 Package Quota Estimator** – MERN-based tool to help media teams and clients dynamically estimate service pricing.
-- **🐟 Fish Tracking System** – Uses computer vision to track movement, generate heatmaps, and analyze distance from aquarium footage.
-- **📷 Camera Shop & Rental System** – Full-stack app for managing equipment rentals with real-time inventory and secure admin dashboard.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshan-pathirana&show_icons=true&locale=en&layout=compact" alt="dilshan-pathirana" /></p>
 
-👉 View more at [my repositories](https://github.com/Dilshan-pathirana?tab=repositories)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshan-pathirana&show_icons=true&locale=en" alt="dilshan-pathirana" /></p>
 
----
-
-## 📫 Let's Connect!
-
-📧 Email: dilshan.pathirana.121@gmail.com  
-📧 University: s19121@sci.pdn.ac.lk  
-🔗 [LinkedIn]( https://linkedin.com/in/dilshan-121-pathiran)  
-
-
----
-
-<!--
-✨ This README is a window into my journey — constantly learning, building, and creating. Thanks for stopping by!
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan-pathirana&" alt="dilshan-pathirana" /></p>
