@@ -1,106 +1,126 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Dilshan Pathirana</h1>
-<h3 align="center">🎓 Final-year Applied Science Undergraduate | 💻 Computer Science Specialist | 🚀 Tech Enthusiast</h3>
+
+<h3 align="center">
+🎓 BSc (Hons) Applied Science (Computer Science) |
+👨‍🏫 Temporary Instructor @ SLIIT |
+💻 Full Stack Software Developer |
+📸 Photographer & Videographer
+</h3>
 
 ---
 
-<!-- Profile Views & Trophies -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilshan-pathirana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <br/>
+  <img src="https://komarev.com/ghpvc/?username=dilshan-pathirana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dilshan-pathirana&theme=gruvbox&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dilshan-pathirana&theme=gruvbox&margin-w=12&margin-h=12&no-bg=true&no-frame=true"/>
   </a>
 </p>
 
 ---
 
-### 🧑 About Me
-Final-year **BSc (Hons) Applied Science (Computer Science)** undergraduate at the **University of Peradeniya**.  
-I blend **software engineering**, **AI/ML research**, and **visual storytelling** to create impactful solutions.  
-🌙 *Night owl coder • Fueled by curiosity and coffee*  
+# 👨‍💻 About Me
+
+I graduated from the **Faculty of Science, University of Peradeniya** with a **BSc (Hons) Applied Science**, majoring in **Computer Science**.
+
+Currently, I work as a **Temporary Instructor at SLIIT**, where I teach undergraduate computing courses while mentoring students in software development and problem solving.
+
+Alongside academia, I work as a **Full Stack Software Developer**, specializing in **enterprise-scale web applications**. I have contributed to multiple large-scale systems deployed across Sri Lanka, building reliable, scalable and production-ready software.
+
+Beyond software development, I'm a **professional photographer and videographer**, creating visual stories through photography and cinematic filmmaking.
 
 ---
 
-### 🌱 Currently Exploring
-- **DevOps** (Kubernetes, AWS, Ansible, Jenkins, Docker)  
-- **Programming** (C++, Python, Java, TypeScript)  
-- **Cloud & Deployment** (CI/CD, Nginx, Postman, GitHub Actions)  
+# 💼 Professional Focus
+
+- Enterprise Web Application Development
+- Full Stack Software Engineering
+- Cloud Infrastructure & DevOps
+- System Architecture & Scalable Solutions
+- API Design & Integration
+- Performance Optimization
 
 ---
 
-### 🚀 Featured Projects
-- **Perabeats — Web Application & Resource Management**  
-  *MERN Stack, Postman* — Digitized event coordination & equipment booking for Perabeats Media Society (2024).  
-  👉 [Repo](https://github.com/Dilshan-Pathirana/perabeat-resourse-management-system)  
+# 🏅 Certifications
 
-- **AWS-Web — Automated Website Deployment**  
-  *AWS (S3, CloudFront, Route53, IAM)* — Static hosting + CDN + DNS automation with CI/CD (2025).  
-  👉 [Repo](https://github.com/Dilshan-Pathirana/AWS-WebApp01)  
+- Docker — Level 1 *(KodeKloud)*
+- Linux — Level 1 *(KodeKloud)*
+- Git — Level 1 *(KodeKloud)*
 
 ---
 
-### 📚 Other Notable Projects
-- AI-Powered Note-Taking (OCR + OpenAI API)  
-- Fish Tracking & Heatmap Analysis (OpenCV, NumPy, Matplotlib)  
-- Camera Shop & Rental Management (Spring Boot, MySQL)  
-- Solar Panel Efficiency Forecasting (RNN, LSTM, TensorFlow)  
-- Selective File Copying Tool (Python automation)  
+# 🏆 Awards
+
+- **Member of the Year – Videography**
+  Perabeats Media Society (2024)
 
 ---
 
-### 🏅 Certificates & Awards
-- **Docker - Level 1** (KodeKloud, Aug 2025)  
-- **Linux - Level 1** (KodeKloud, Aug 2025)  
-- **Git - Level 1** (KodeKloud, Sept 2025)  
-- **Member of the Year — Videography**, Perabeats Media Society (2024)  
+# 🎓 Academic & Professional Experience
+
+### 👨‍🏫 Temporary Instructor
+**SLIIT**
+
+- Teaching undergraduate computing modules
+- Conducting laboratory sessions
+- Mentoring students in programming and software engineering
+
+### 💻 Full Stack Software Developer
+
+- Designing and developing enterprise-scale web applications
+- Building secure REST APIs
+- Developing scalable frontend and backend architectures
+- Deploying production applications
+- Working with cloud infrastructure and modern development workflows
 
 ---
 
-### 📌 Extracurriculars
-- Editorial Panel Member, Robarosiya Society (2023–2024)  
-- Member & Executive Committee, Perabeats Media Society (2023–2025)  
+# 🌐 Portfolio
+
+Visit my portfolio:
+
+👉 **https://www.dilshanpathirana.com**
 
 ---
 
-### 👨‍💻 Portfolio
-- Check out all my projects 👉 [**dilshanpathirana.com**](https://www.dilshanpathirana.com/)  
+# 📬 Contact
+
+📧 **dilshan.pathirana.121@gmail.com**
+
+💼 LinkedIn
+https://www.linkedin.com/in/dilshan-121-pathiran
+
+🌐 Website
+https://www.dilshanpathirana.com
 
 ---
 
-### 💬 Ask Me About
-- My **passions** in tech and innovation  
-- My **future goals** in Cloud Engineering, DevOps & Software Development  
+# 💼 Open to Opportunities
+
+I'm currently open to opportunities in:
+
+- Software Engineering
+- Full Stack Development
+- Backend Engineering
+- Cloud Engineering
+- DevOps Engineering
 
 ---
 
-### 📫 Reach Me At
-- ✉️ **dilshan.pathirana.121@gmail.com**  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/dilshan-121-pathiran)  
-- 🌐 [**Personal Website**](https://www.dilshanpathirana.com/)  
+# 📊 GitHub Statistics
 
----
-
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/dilshan-121-pathiran" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilshan-pathirana&show_icons=true&theme=radical"/>
 </p>
 
----
-
-### ⚡ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,c,cpp,css,docker,dotnet,electron,express,figma,flutter,git,html,ai,java,js,kubernetes,linux,mongodb,mysql,nginx,nodejs,opencv,postgres,postman,py,pytorch,react,sklearn,spring,tailwind,ts,tensorflow" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan-pathirana&layout=compact&theme=radical"/>
 </p>
 
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilshan-pathirana&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan-pathirana&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=dilshan-pathirana&theme=radical"/>
 </p>
